@@ -10,7 +10,8 @@ public class StartView {
  public static void main(String[] agrs){
 	 
 	 
- system.out.println("dsada");	 
+    System.out.println("dsada");	
+    new CustomerDao();
 	 
  }
 
