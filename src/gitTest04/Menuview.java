@@ -8,7 +8,7 @@ public class Menuview {
 
 
   public static void main(String[] args) {
-	  
+	  System.out.println("바보");
 	  
   }
 
